@@ -2,13 +2,6 @@
 body{
     background-color: rgb(4,29, 49);
 }
-#name{
-    width: 80%;
-    padding: 5px;
-    border-radius: 5%;
-    outline: 0;
-    border: 1px solid lightgrey;
-}
 table{
     color:white;
     background-color: rgb(25, 113, 48);
@@ -18,11 +11,15 @@ table{
     padding:5px;
     border:5px solid white;
     text-align: -webkit-center;
-    
-
-
-
 }
+#name{
+    width: 80%;
+    padding: 5px;
+    border-radius: 5%;
+    outline: 0;
+    border: 1px solid lightgrey;
+}
+
 h3{
     color: beige;
     text-decoration: underline;
